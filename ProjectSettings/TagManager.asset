@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Collectable
+  - hive entrance
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 3299092565
+    locked: 0
+  - name: Walkinfront
+    uniqueID: 132902419
+    locked: 0
+  - name: Decor
+    uniqueID: 2803493885
+    locked: 0
+  - name: Collision
+    uniqueID: 482034201
+    locked: 0
+  - name: Player
+    uniqueID: 3860759271
+    locked: 0
+  - name: WalkBehind
+    uniqueID: 3504382537
+    locked: 0
+  m_RenderingLayers:
+  - Default
